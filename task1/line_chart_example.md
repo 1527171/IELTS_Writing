@@ -75,7 +75,16 @@
      (事故数量在2018年达到了低谷。)  
    - The temperature peaked at 35°C in July before declining.  
      (气温在七月达到35°C的高峰，随后下降。)
+6. **扩充**
+  - *"[Subject] is expected to increase to almost [percentage] of the respective populations by [time]."*  
+  **例句：**  
+  *"It indicates that the percentage of elderly people in all three countries is expected to increase to almost 25% of the respective populations by the year 2040."*  
+  (它表明，预计到2040年，三个国家中老年人口的比例将分别增加到近25%。)
 
+  - *"A more dramatic rise is predicted between [start time] and [end time] in [Country]."*  
+  **例句：**  
+  *"A more dramatic rise is predicted between 2030 and 2040 in Japan."*  
+  (预测显示，日本在2030至2040年间将出现更为显著的增长。)  
 ---
 
 ### 二、好的句型和单词
@@ -104,7 +113,22 @@
    - **下降:** *slump* (暴跌), *diminish* (减少)  
    - **趋势:** *trend* (趋势), *tendency* (倾向)  
    - **显著的:** *notable* (值得注意的), *remarkable* (显著的)
-
+3. **扩充**
+    - *"[The graph] shows [subject]."*  
+    **例句：**  
+    *"The graph shows the increase in the ageing population in Japan, Sweden and the USA."*  
+    (该图显示了日本、瑞典和美国老龄化人口的增长。)  
+    **关键词：**  
+    - **increase**（增长）  
+    - **ageing population**（老龄化人口）  
+    - **fluctuation**（波动）  
+    - **dramatic**（显著的）  
+    - **proportion**（比例）
+  
+    - *"It indicates that [subject] is expected to increase to almost [percentage] by [time]."*  
+    **例句：**  
+    *"It indicates that the percentage of elderly people in all three countries is expected to increase to almost 25% of the respective populations by the year 2040."*  
+    (这一句型结构严谨，适合用来描述预测性增长趋势。)
 ---
 
 ### 三、开头与结尾句型
@@ -144,7 +168,18 @@
      **例句:**  
      - In summary, the data highlights a significant decline in unemployment over the given period.  
        (总之，数据显示在给定期间失业率显著下降。)
+3. **扩充**
+- **开头句型**  
+  *"The graph shows [subject]."*  
+  **例句：**  
+  *"The graph shows the increase in the ageing population in Japan, Sweden and the USA."*  
+  (用来引入图表主题，简明扼要。)
 
+- **结尾句型**  
+  *"In spite of some fluctuation in the expected percentages, [subject] will probably continue to increase in the next [time period]."*  
+  **例句：**  
+  *"In spite of some fluctuation in the expected percentages, the proportion of older people will probably continue to increase in the next two decades in the three countries."*  
+  (这句用于总结趋势，并对未来做出预测。)
 ---
 
 
@@ -174,6 +209,11 @@
     *Following a period of rapid growth, the figures subsequently experienced a sharp fall from 2017 onwards.*  
     (在经历了一段快速增长期后，从2017年起数据随后急剧下降。)
 
+  - *"However, while [Group A] [trend A] during [time period], [Group B] [trend B] for much of this period, before [trend change]."*  
+  **例句：**  
+  *"However, while the figures for the Western countries grew to about 15% in around 1990, the figure for Japan dipped to only 2.5% for much of this period, before rising to almost 5% again at the present time."*  
+  (该句型巧妙地描述了同一时期内不同国家数据的转折变化。)
+
 ---
 
 ### 五、几个折线进行对比的例句
@@ -194,6 +234,10 @@
     *The graph indicates that while retail profits peaked at $1.2 billion in 2014, manufacturing output hit a low during the same timeframe.*  
     (图表显示，在2014年零售利润达到12亿美元的高峰时，制造业产量在同期达到低谷。)
 
+  - *"In [year] the proportion of people aged [age] or more stood at [value] in [Country A], approximately [value] in [Country B] and [value] in [Country C]."*  
+  **例句：**  
+  *"In 1940 the proportion of people aged 65 or more stood at only 5% in Japan, approximately 7% in Sweden and 9% in the US."*  
+  (这句结构清晰，直接对比了1940年三个国家老年人口的比例。)
 ---
 
 ### 六、几个折线在同一时间段不同表现的例句
@@ -213,5 +257,15 @@
     **例句：**  
     *Although both the domestic and international market segments started at similar levels, their trajectories diverged sharply as the domestic market surged while the international market declined.*  
     (尽管国内和国际市场最初处于相似水平，但后来走势大相径庭，国内市场激增而国际市场下降。)
+    
+  - *"During [time period], while [Group A] showed a [trend], [Group B] demonstrated a contrasting trend, with [difference]."*
+    **例句：**  
+  *"During the period around 1990, while the figures for the Western countries grew to about 15%, the figure for Japan remained significantly lower at around 2.5%."*
+  (此句型用于比较同一时期内不同国家的表现差异。)
 
+
+  - *"During [time period], while [Group A] showed a [trend], [Group B] demonstrated a contrasting trend, with [difference]."*  
+  **例句：**  
+  *"During the period around 1990, while the figures for the Western countries grew to about 15%, the figure for Japan remained significantly lower at around 2.5%."*  
+  (此句型用于比较同一时期内不同国家的表现差异。)
 ---
