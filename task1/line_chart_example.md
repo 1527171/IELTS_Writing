@@ -180,6 +180,10 @@
   **例句：**  
   *"In spite of some fluctuation in the expected percentages, the proportion of older people will probably continue to increase in the next two decades in the three countries."*  
   (这句用于总结趋势，并对未来做出预测。)
+  *"In summary, while [trend description], [conclusion]."*  
+  **例句：**  
+  *"In summary, while all three sectors experienced significant growth in global water usage, agriculture dominated overall consumption, and Brazil’s water use was substantially higher than that of the Democratic Republic of Congo."*  
+  (总之，尽管三个部门的全球用水量都显著增长，但农业用水占据主导地位，而巴西的用水量远远高于刚果民主共和国。)
 ---
 
 
